@@ -15,7 +15,7 @@ import Settings from "../Sidebar/Settings.svg";
 import Wallet from "../Sidebar/Market.svg";
 
 const navItems = [
-  { label: "Dashboard", icon: Dashboard, path: "/dashboard", children: null },
+  { label: "Dashboard", icon: Dashboard, path: "/", children: null },
   { label: "Market",    icon: Market,    path: "/market",    children: null },
   {
     label: "Wallet",
