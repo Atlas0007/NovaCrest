@@ -339,7 +339,7 @@ export default function Dashboard() {
             {/* Recently Posted */}
             <div className={`${cardBg} border ${cardBorder} rounded-[16px] sm:rounded-[20px] p-[18px] sm:p-[22px]`}>
               <h3 className="mb-[14px] sm:mb-[16px]">
-                <span className="text-[15px] sm:text-[16px] font-bold bg-[#4A7FD4] text-white px-[6px] py-[1px] rounded-[4px]">Recently</span>
+                <span className="text-[15px] sm:text-[16px] font-bold ] text-white px-[6px] py-[1px] rounded-[4px]">Recently</span>
                 <span className={`text-[15px] sm:text-[16px] font-bold ${textPrimary} ml-[6px]`}>Posted</span>
               </h3>
               <div className="space-y-[14px] sm:space-y-[16px]">
